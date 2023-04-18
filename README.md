@@ -1,2 +1,2 @@
 # Spirit-Animal-Name-Generator
-Spirit Animal name generator using Javascript (DOM manipulation, DOM event listeners)
+Develop an interactive Spirit Animal name generator using Javascript, incorporating DOM manipulation techniques and DOM event listeners to enhance user experience and generate personalized results.
